@@ -3,6 +3,10 @@ A research project about construction of Covid19 spatial-tempal knowledge graph,
 
 
 
+![AVESA Framework for Covid-19 Analysis and Prediction](https://github.com/NoakLiu/Covid19-Knowledge-Graph-System/blob/main/AVESA_framework.png)
+
+
+
 The main contributions of this paper are as follows: 
 
 • I design and implement an end-to-end automated COVID-19 epidemiological analysis framework AVESA , which solves the inefficiency of traditional manual epidemiological analysis. 
