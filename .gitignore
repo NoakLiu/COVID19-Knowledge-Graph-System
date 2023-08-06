@@ -1,0 +1,21 @@
+#env
+.idea
+
+#model and experiments
+*.bin
+/sourceCode/nlpProcess/bertBased/res/*
+/sourceCode/nlpProcess/foolNer/res/*
+/backup/*
+
+#中间代码
+*.pyc
+
+#input
+/sourceCode/dataPreProcess/origin_data/*
+/sourceCode/dataPreProcess/test.txt
+
+#output
+/sourceCode/nlpRes/*.txt
+
+#dataset
+/dataset/open_data/*

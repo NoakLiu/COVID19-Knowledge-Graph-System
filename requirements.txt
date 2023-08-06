@@ -1,0 +1,8 @@
+python == 3.9.2
+torch==1.9.0+cu111
+transformers==4.8.2
+pytorch-crf==0.7.2
+numpy==1.20.3
+IPython == 7.29.0
+py2neo==2021.2.3
+seqeval==1.2.2
